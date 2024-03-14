@@ -8,8 +8,8 @@ body {
 .header {
     display: flex;
     align-items: center;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 220px;
+    padding-right: 220px;
 
     background-color: #1F2937;
 }
@@ -38,7 +38,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 100px 300px;
+    padding: 100px 220px;
     gap: 40px;
 
     background-color: #1F2937;
@@ -80,7 +80,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0px 350px 140px;
+    padding: 0px 200px 140px;
 }
 
 .info-header {
@@ -102,7 +102,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    flex-basis: 250px;
+    flex-basis: 180px;
     gap: 10px;
 }
 
@@ -124,7 +124,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    padding: 140px 350px;
+    padding: 140px 280px;
 
     background-color: #E5E7EB;
 }
@@ -143,7 +143,7 @@ body {
 }
 
 .action-box {
-    margin: 150px 300px;
+    margin: 150px 200px;
     background-color: #3882F6;
     border-radius: 8px;
     padding: 100px 140px;
