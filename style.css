@@ -103,7 +103,7 @@ body {
     flex-direction: column;
     align-items: center;
     flex-basis: 180px;
-    gap: 10px;
+    margin: 10px;
 }
 
 .coolpix {
@@ -150,6 +150,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 30px;
 }
 
 .action-header {
@@ -183,6 +184,6 @@ body {
 
 .footer-text {
     color: #E5E7EB;
-    font-size: 22px;
+    font-size: 16px;
     margin: 48px;
 }
